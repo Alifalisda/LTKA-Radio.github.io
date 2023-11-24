@@ -1,0 +1,170 @@
+@font-face {
+        font-family: "Affectionetly_Yours";
+        src: url('Affectionately Yours - TTF.ttf');
+     }
+@font-face {
+    font-family: "Quicksand";
+    src: url('Quicksand_Book.otf');}
+@font-face {
+    font-family: "Vimland";
+    src: url('Vimland.otf');}
+header.start{
+    border: 10px solid;
+    padding: 5px;
+}
+header nav ul li{
+    border: 3px solid;
+    padding: 5px;
+}
+body {
+    font-family: 'Quicksand', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:#F4EEE8 ;
+}
+main {
+    padding: 0px;
+    overflow: auto;
+ }
+
+nav a {
+    font-size: 25px;
+    font-weight: 400;
+    text-decoration: none;
+    color: white;
+    float: right;
+    margin-right: 20px;
+}
+
+
+nav a:hover {
+    font-weight: bold;
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0, 0.7);
+    border-radius: 3px;
+ }
+
+h2 {
+    color: #A98B98;
+    text-align:center;
+    font-size: 12mm;
+    font-family: 'Vimland', sans-serif;
+    letter-spacing: 2mm;
+}
+nav li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 20px;
+ }
+nav {
+    background-color: #A0937D;
+    padding: 10px;
+ }
+
+.card {
+    box-shadow: 0 4px 8px 0 rgb(134, 84, 57, 0.7);
+    border-radius: 15px;
+    padding: 20px;
+    margin-top: 30px;
+    margin: 30px;
+}
+#content {
+    width: 100%;
+ }
+
+* {
+    box-sizing: border-box;
+ }
+
+#beranda.box {
+    background-image: url('beranda.jpg');
+    position: relative;
+    padding:0px;
+    margin: 0px
+}
+.tengah{
+    left: 50%;
+    top: 65%;
+    transform: translate(-50%);
+    -webkit-transform: translate(-50%);
+    -moz-transform: translate(-50%);
+    -o-transform: translate(-50%);
+    color: white;
+    font-size: 1.5em;
+    text-align: center;
+
+}
+.tengah-ber{
+    left: 50%;
+    top: 25%;
+    transform: translate(-50%);
+    -webkit-transform: translate(-50%);
+    -moz-transform: translate(-50%);
+    -o-transform: translate(-50%);
+    color: white;
+    font-size: 7em;
+    font-family: 'Affectionetly_Yours';
+}
+.box-image{
+    width: 100vw;
+    padding: 0px;
+    background-color: black;
+}
+p, pre {
+    font-size: 6mm;
+    text-align: justify;
+}
+.mine {
+    height: 300px;
+}
+header.last{
+    position: relative;
+    margin-right: 450px;   
+}
+section {
+    padding-top: 0cm;
+
+}
+figure {
+    border:#A0937D solid 10px;
+    transform: translate(50%);
+    -webkit-transform: translate(50%);
+    -moz-transform: translate(50%);
+    -o-transform: translate(50%);
+}
+h3 {
+    font-family: "Affectionetly_Yours",sans-serif;
+    font-size:15mm;
+    margin-bottom: 40px;
+    text-align: center;
+}
+aside {
+    float: right;
+    width: 35%;
+    padding-left: 20px;
+    bottom: 30px;}
+table th, table td{
+    border: 1px solid;
+    text-align: center;  
+    padding: 10px;
+    margin-top: 3cm;
+    font-size: 5mm;
+}
+
+#content {
+    float: left;
+    width: 65%;
+ }
+@media screen and (max-width: 1000px) {
+    #content,
+    aside, table, table th, table td, h3, .mine  {
+        width: 100%;
+        padding: 0;
+    }
+ } 
+footer, footer p {
+    padding: 20px;
+    color: white;
+    background-color: #A0937D;
+    text-align: center;
+    font-weight: bold;
+ }

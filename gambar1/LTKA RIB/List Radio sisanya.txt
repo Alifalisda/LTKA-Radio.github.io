@@ -1,0 +1,67 @@
+[Kalimantan Timur]
+Suara Mahakam 			: https://i.klikhost.com/8010/stream
+Radio Gembira Raja Jaya 	: http://ns3.indonesiastreaming.com:8000/grj1043fm
+Radio Heartline Samarinda	: http://202.129.186.43:7025/stream
+Voice				: http://pu.klikhost.com:8146/live
+
+[Kalimantan Utara]
+Solata				: https://a.alhastream.com:1030/radio
+
+[Lampung]
+Radio Heartline Lampung		: https://svara-stream.radioddns.net:8443/lampung_heartline_mp3
+Suwara Utama			: http://scg.streamingmurah.com:8237/stream
+Radio Suara Wajar		: https://i.klikhost.com/8000/wajarfm
+
+[Maluku]
+tidak ada radio yang bisa (server radionya ga terhubung)
+
+[Nusa Tenggara Timur]
+Gema Merdeka			: http://110.44.169.32/gema
+Radio Suara Kupang		: http://s4.vinhostmedia.com:9506/;
+Merdeka				: http://streaming.merdekafm.com:8020/;stream.mp3
+Radio Gema Hosana Serui		: http://radio.gemamedia.id/gema
+JCC Radio			: https://sca.streamingmurah.com:8030/jccradio.mp3
+Simfoni				: https://i.klikhost.com/9160/;radio.mp3
+Radio Gobers			: https://sx.alhasmedia.com/radio/8140/radio
+
+[Sulawesi Utara]
+sama dengan Maluku
+
+[Sulawesi Selatan]
+RRI Pro 1 Makassar		: https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro1.mp3
+SB Parepare BOLLY		: https://stream-158.zeno.fm/0amu8bp7a5zuv?zs=hllt36VxQbuND-eFN2WJ2Q
+SB Pare's Tembang Kenangan	: https://stream-155.zeno.fm/qwyt80mkzhhvv?zs=qVP6y6q_TwKYP-hDarR26g
+Prambors Makassar		: https://rust.mrngroup.co/listen/prambors_makasar/;
+I-Radio Makassar		: https://n0a.radiojar.com/seqmzfeu5k8uv?rj-ttl=5&rj-tok=AAABi_I0UrMAL-2Bm27iH8qb8g
+Glory				: http://a.alhastream.com:8450/radio?refresh=1695220967374
+Radio Venus			: http://stream-161.zeno.fm/at9yh6poovqtv?zs=EM25iHtGTOe5jNKVF2D1qg
+Radio Gamasi			: https://s3.vinhostmedia.com/9504/;
+SB Pinrang			: https://stream-160.zeno.fm/km6olzbpypetv?zs=C9LIm8AKTp6wqnv89nbhxA
+Radio Peduli Parepare		: https://stream-153.zeno.fm/zkzf6x69gfhvv?zs=QA4W3J0oRCW8Ro1ilAj4xg
+
+[Sumatera Utara]
+City Radio Mandarin		: https://live.cityradio.id/cr-mandarin.ogg
+Kiss Medan			: https://live.kissfmmedan.com/kissfm.mp3
+City Radio Medan		: https://live.cityradio.id/cityradio.ogg
+I-Radio Medan			: http://n0c.radiojar.com/hkuevehswk8uv?rj-tok=AAABi_I742kAUcsHx4hBz2sKVA&rj-ttl=5
+96.3 Medan FM			: https://live.medanfm.id/medanfm.ogg
+Radio Gundaling			: http://fusion.shoutca.st:8234/stream
+A Radio Medan			: https://a1.siar.us/radio/8270/radio.mp3
+Lopo PAR85 Kotanopan		: https://stream-162.zeno.fm/kvv4yhrdukeuv?zs=X-IqaSUaSqyphjylHlBL9Q
+Firza Radio			: https://stream-156.zeno.fm/49c2uvzd4reuv?zs=ZHN3pspWQ-mmVPSiFCJr5Q
+Radio Prestasi			: http://u.klikhost.com:7128/;stream.mp3
+
+[Sumatera Selatan]
+Radio Citra Lubuklinggau	: https://rise.citrafm.com/live
+El John Palembang		: http://103.28.149.117:8032/stream
+Trax				: http://n13.radiojar.com/qv4muvhswk8uv?rj-tok=AAABi_JD1qoAgiLYedO0iXlVtg&rj-ttl=5
+Momea				: http://momea.alhastream.com/listen/station_9/radio?refresh=1674661674802
+Play				: http://66.96.237.109:8000/listen
+Ninetysix Radio			: https://c4.siar.us:8950/stream
+Ans Radio Palembang		: https://s3.alhastream.com:8470/radio
+
+[Sumatera Barat]
+Radio Teman Sejati		: http://sci.streamingmurah.com:8094/stream/1/
+Warna				: http://warnafm.indostreamserver.com:8020/;
+Kiara IKIP Padang		: https://stream.theradiohub.com/?mount=%2Fproxy%2Fkiarafm%3Fmp%3D%2F1&port=80&server=eu1.fastcast4u.com&type=mp3
+

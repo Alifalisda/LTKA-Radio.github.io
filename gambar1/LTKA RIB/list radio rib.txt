@@ -1,0 +1,81 @@
+ACEH
+http://109.73.65.69:6792/;stream.mp3 (Radio CitisFm)
+
+BALI
+https://c1.siar.us:10280/menarafmbali (Radio Bali)
+http://n01.radiojar.com/9k28wsbu5k8uv?rj-tok=AAABi_GsTy0AQMZ_PlDh14l6jQ&rj-ttl=5 (Hard Rock FM 87.8)
+http://stream.werdimedia.com:8200/; (Radio Genta Bali 96.1 FM)
+https://live.phoenixradiobali.com:8250/phoenixradio (Phoenix Radio Bali)
+https://live.radiopinguinfm.com:8350/;stream.mp3 (Pinguin FM)
+https://live.radioarbali.com:8450/radioar (AR Radio Bali)
+https://c1.siar.us/radio/8030/stream (The Beat Radio Bali)
+https://c1.siar.us:10690/stream (Radio Bali United)
+https://live.indostreamserver.com:8090/; (Urban Radio Bali)
+https://radioseribatu.out.airtime.pro:8000/radioseribatu_a (Radio Seribatu)
+
+BANTEN
+https://mettaswara.com:8700/koplo (Mettaswara Koplo)
+https://mettaswara.com:8700/cps (Mettaswara Campursari)
+https://live.indostreamserver.com:8002/; (PBS FM 104.8)
+https://stream-153.zeno.fm/g8ejz2gg0vzuv?zs=qnjWNolzS_a05_q_jSLbag (Tangsel Gigs)
+
+BENGKULU
+http://freeuk28.listen2myradio.com:10569/; (Onstar Radio)
+
+GORONTALO
+https://live4.rs3fm.com:8001/poliyama (Poliyama Top)
+
+JAKARTA
+https://23743.live.streamtheworld.com/PRAMBORS_FM_SC?dist=pramborsweb&pname=tdwidgets (Prambors FM 102.2 Jakarta)
+https://n12.radiojar.com/4ywdgup3bnzuv?rj-tok=AAABi_HUseIAt_uNrpKnTCApQQ&rj-ttl=5 (I-Radio Jakarta)
+https://stream.cloudmu.id/listen/delta_fm/stream?icy=http (Delta FM)
+https://stream-ssl.arenastreaming.com:8000/jakarta (Elshinta Jakarta)
+https://stream.cloudmu.id/listen/female_radio/stream?icy=http (FeMale Radio 97.9 FM)
+https://n07.radiojar.com/7csmg90fuqruv.mp3?rj-tok=AAABi_HY3XQAVbHjtlJmz9OSnA&rj-ttl=5 (Hard Rock FM 87.6)
+http://cast1.my-control-panel.com/proxy/radioso1/stream (Sonora 92.0 FM)
+http://n09.radiojar.com/rrqf78p3bnzuv.mp3?rj-tok=AAABi_Hc6XMA7LbTDCrdcXR_LQ&rj-ttl=5 (Trax FM)
+http://streaming.girifm.com:8010/;stream.mp3 (Suara Giri 98.4 FM)
+http://202.147.199.99:8000/; (Radio Dangdut Indonesia 97.1 FM)
+
+JAMBI
+ga da radio 
+
+JAWA BARAT
+https://n07.rcs.revma.com/1q762wy5a9hvv.m4a?rj-tok=AAABi_HgRGkAwZvxmdjzhU5nhQ&rj-ttl=5 (Ardan FM)
+https://radioislamindonesia.com/rodja-low.mp3?_=1 (Radio Rodja)
+http://45.64.97.211:1031/;?ver=607511 (OZ Radio Bandung)
+https://stream-149.zeno.fm/aebyki1euhmvv?zs=T9SMgNqCTPGUS_CjwnDPWQ (K-Pop Radio)
+http://dengerin.radiocakrabandung.com:8905/; (Radio Cakra)
+https://live.nagaswarafm.com/nagaswararadio/stream (NAGASWARA FM)
+https://i.klikhost.com/8330/; (Rama 104.7 FM)
+https://s1.gntr.net/listen/mgtradio/mgtradio (MGT FM 101.1)
+http://n0c.radiojar.com/fnex9bkswk8uv?rj-tok=AAABi_HlyRAACGhN_utoY8l5jQ&rj-ttl=5 (Hard Rock FM 87.7)
+http://maestro.skyline.net.id:10925/radio.maestro (Maestro FM)
+
+JAWA TENGAH
+http://n0f.radiojar.com/rrqf78p3bnzuv.mp3?rj-tok=AAABg8H1mnoAppbv5wfi-lKDDA&rj-ttl=5 (Trax FM)
+http://c4.siar.us:8790/stream (Radio Karanganyar Mendhut FM 87.9)
+https://server.radioimeldafm.co.id/radio/8040/gajahmadafm (Gajahmada 102.4 FM)
+http://server.radioimeldafm.co.id:8030/imeldafm (Radio Imelda FM)
+https://s1.gntr.net/radio/8080/gentara128 (Radio Gentara)
+http://202.65.114.229:9952/; (Magelang FM)
+http://indoforum.sg.elshaddaifm.com:8002/; (El - Shaddai 91.3 FM)
+https://server.radioimeldafm.co.id/radio/8010/swarasemarang (Swara Semarang)
+http://streaming.rhemaradio.com:5757/;file.mp3 (88.6 Rhema FM)
+https://ssg.streamingmurah.com:8886/AAC (Pas FM Pati)
+http://202.65.114.229:9952/; (Magelang FM)
+
+JAWA TIMUR
+https://c5.siar.us/proxy/ssfm/stream (Radio Suara Surabaya)
+https://stream-160.zeno.fm/uer8qgd7f18uv?zs=k-eatOn6TLuEZluI8OELZg (Radio Kajian Islam)
+https://pu.klikhost.com:8100/stream (Suara Muslim)
+http://wijayafm.onlivestreaming.net:9880/103,50%20Wijayaaaaaaa (Wijaya 103.5 FM)
+http://streaming.suzanafm.com:8100/;stream.mp3 (EBS 105.9 FM)
+https://23743.live.streamtheworld.com/PRAMBORS_FM_SC (Prambors FM 89.3 Surabaya)
+http://streaming.suzanafm.com:8000/;stream.mp3 (Suzana 91.3 FM)
+https://streaming.classynetradio.com/listen/classy_netradio_indonesia/classySD (CLASSY NetRadio)
+https://stream-66.zeno.fm/954yxsx00ehvv?zs=CqVc35V9QVCLT_7HBAr5NQ (Radio Online Tulungagung)
+http://streaming.bahterayudhafm.com:8050/;stream.mp3 (Bahtera Yudha)
+
+KALIMANTAN TENGAH
+ga da radio 
