@@ -54,13 +54,12 @@ var semuacards = document.querySelectorAll('.cards');
     semuacards.forEach(function (info) {
         info.classList.add('hidden');
     });
-var lastClickedElement = null;
-var lastClickedProvince = null;
+
 // Fungsi untuk menampilkan elemen berdasarkan provinsi yang diklik
 
 function showElement(provinsi) {
 // Semua elemen terkait disembunyikan terlebih dahulu
-    var semuaInfo = document.querySelectorAll('.item');
+    var semuaInfo = document.querySelectorAll('.cards');
     semuaInfo.forEach(function (info) {
         info.classList.add('hidden');
     });
@@ -74,38 +73,56 @@ function showElement(provinsi) {
     
       // Tambahkan kelas 'highlight' pada elemen yang baru diklik
     
-    var liTerpilih = document.querySelector('.bisa li[onclick="showElement(\'' + provinsi + '\')"]');
-    liTerpilih.classList.add('highlight');
-    if (lastClickedProvince !== null) {
-        // Hapus kelas 'highlight' dari elemen terakhir yang diklik
-        lastClickedElement.classList.remove('highlight');
-      }
     
-    lastClickedElement = liTerpilih;
-    // Simpan referensi elemen terakhir dan provinsi terakhir
-    console.log(String(lastClickedElement));
-    lastClickedProvince = provinsi;
-    /*var liTerpilih = document.querySelector('.bisa li[onclick="showElement(\'' + provinsi + '\')"]');
+    var liTerpilih = document.querySelector('.bisa li[onclick="showElement(\'' + provinsi + '\')"]');
     if (liTerpilih.classList.contains('highlight')) {
         liTerpilih.classList.remove('highlight'); // Jika sudah ada, hapus
     } else {
         liTerpilih.classList.add('highlight'); // Jika belum ada, tambahkan
     }
-    if (lastClickedProvince !== provinsi) {
-        // Hapus kelas 'highlight' dari elemen terakhir yang diklik
-        lastClickedElement.classList.remove('highlight');
-    }*/
+    
 }
+// var lastClickedElement = null;
+// var lastClickedProvince = null;
+// function bisayuk(prov) {
+//     var myList = document.querySelector('myList');
+
+// // Mengambil semua elemen li dalam ul
+//     var listItems = myList.getElementsByTagName('li');
+//     // liTerpilih.classList.add('highlight');
+//     // if (lastClickedProvince !== prov) {
+//     //     // Hapus kelas 'highlight' dari elemen terakhir yang diklik
+//     //     lastClickedElement.classList.remove('highlight');
+//     //   }
+    
+//     // lastClickedElement = liTerpilih;
+//     // // Simpan referensi elemen terakhir dan provinsi terakhir
+//     // lastClickedProvince = provinsi;
+//     if (liTerpilih.classList.contains('highlight')) {
+//         liTerpilih.classList.remove('highlight'); // Jika sudah ada, hapus
+//     } else {
+//         liTerpilih.classList.add('highlight'); // Jika belum ada, tambahkan
+//     }
+// }
 
 
 function showAll() {
 // Hapus kelas 'hidden' dari semua elemen terkait
-for (var i=1; i<= 50; i++) {
-    var semuaInfo = document.querySelectorAll(".item");
-    semuaInfo.forEach(function (info) {
-    info.classList.remove('hidden');
-    });
-}
+    for (var i=1; i<= 50; i++) {
+        var semuaInfo = document.querySelectorAll(".cards");
+        semuaInfo.forEach(function (info) {
+        info.classList.remove('hidden');
+        });
+        
+    }
+    var all = document.querySelector('.bisa li[onclick="showAll()"]');
+    all.classList.add('highlight');
+    if (all.classList.contains('highlight')) {
+        all.classList.remove('highlight'); // Jika sudah ada, hapus
+    } else {
+        all.classList.add('highlight'); // Jika belum ada, tambahkan
+    }
+
 }
 // document.querySelectorAll('.cards').forEach(function(card) {
 //     card.addEventListener('click', function() {

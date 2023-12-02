@@ -98,7 +98,7 @@ button{
     margin: 10px;
     letter-spacing: 0px;
 }
-}
+
 @media(max-width: 700px){
     .text-box h1{
         font-size: 62px;
