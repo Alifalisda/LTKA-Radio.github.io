@@ -44,6 +44,7 @@
 }
 .text-box a{
     color: #fff;
+    letter-spacing: normal;
 }
 .btn {
     box-sizing: border-box;
@@ -198,11 +199,15 @@ h3{
     text-align: center;
     font-weight: 600;
     margin: 10px 0;
+    letter-spacing: 0px;
 }
 .myblog-col:hover{
     box-shadow: 0 0 20px 0px rgba(0,0,0,0.5);
 }
-
+.item{
+    display: grid;
+    grid-template-columns: max-content max-content max-content max-content;
+}
 .content{
     flex-direction: row;
     display: flex;
